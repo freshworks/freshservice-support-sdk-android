@@ -1,6 +1,6 @@
-# Freshservice Support SDK Sample app
+# Freshservice Support SDK Integration on Android
 
-FSSupportSDK
+Freshservice Support SDK
 
 Freshservice Support SDK helps in the integration of the Freshservice support features within your in-house Android mobile application.
 
