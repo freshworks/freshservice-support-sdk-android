@@ -1,7 +1,5 @@
 # Freshservice Support SDK Integration on Android
 
-Freshservice Support SDK
-
 Freshservice Support SDK helps in the integration of the Freshservice support features within your in-house Android mobile application.
 
 The Freshservice Support SDK provides on-the-go access to some key support features of the Freshservice IT Service Management (ITSM) platform. Users (employees or requesters in your organization) can access specific support-related features from your in-house Android mobile application, such as raising issues, viewing open tickets, and requesting services.
